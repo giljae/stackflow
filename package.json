@@ -1,6 +1,6 @@
 {
   "name": "@runchr/stackflow",
-  "version": "1.0.2",
+  "version": "1.1.1",
   "description": "Antigravity Agent Runtime combining Gstack strategy and Superpowers execution.",
   "main": "bin/stackflow.js",
   "bin": {
