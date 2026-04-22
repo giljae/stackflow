@@ -1,0 +1,31 @@
+{
+  "name": "@runchr/stackflow",
+  "version": "1.0.0",
+  "description": "Antigravity Agent Runtime combining Gstack strategy and Superpowers execution.",
+  "main": "bin/stackflow.js",
+  "bin": {
+    "stackflow": "bin/stackflow.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ai",
+    "agent",
+    "antigravity",
+    "gstack",
+    "superpowers",
+    "claude-code",
+    "llm",
+    "tdd",
+    "workflow",
+    "developer-tools",
+    "cli"
+  ],
+  "author": "runchr",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/runchr-com/stackflow.git"
+  }
+}

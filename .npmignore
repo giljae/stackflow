@@ -1,0 +1,6 @@
+# Ignore development caching and scripts
+scripts/
+.upstreams/
+.git/
+
+# Keep skills, workflows, references, bin, readme
