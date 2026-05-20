@@ -1,3 +1,27 @@
+> [!IMPORTANT]
+>
+> ## Compatibility Notice — Antigravity 2.0
+>
+> Due to breaking changes introduced in **Antigravity v2.0**, the previous skill path conventions used in this repository are no longer compatible.
+>
+> Some skills may not execute properly until they are migrated to the new structure required by Antigravity 2.0.
+>
+> ### Current Status
+>
+> * Legacy structure: ❌ Deprecated
+> * Antigravity 2.0 support: 🚧 In Progress
+> * Migration guide: Coming soon
+>
+> ### Repository Status
+>
+> This repository is no longer actively maintained.
+>
+> Development has been moved to a new repository with a redesigned structure optimized for Antigravity 2.0 and future multi-agent workflows.
+>
+> Please follow future updates in the new repository.
+>
+> Thank you to everyone who supported and used this project.
+
 # Stackflow (스택플로우)
 
 Stackflow는 [Gstack](https://github.com/garrytan/gstack)의 **전략적 의사결정 체계**와 [Superpowers](https://github.com/obra/superpowers)의 **엄격한 소프트웨어 엔지니어링 실행 규율**, 그리고 극단적 토큰 절약을 위한 **AST 기반 컨텍스트 엔진**을 하나로 통합한 차세대 AI 에이전트 런타임입니다.
